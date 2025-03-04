@@ -31,4 +31,4 @@ imagem
 
 # Diagrama de Classe:
 
-imagem
+![Diagrama de Classe](
