@@ -27,7 +27,7 @@ imagem
 
 # Diagrama de Caso de Uso:
 
-imagem
+![Diagrama de Caso de Uso](https://github.com/Vinicnd/Gerenciamento-de-Dados-da-Universade/blob/main/diagrama%20de%20caso%20de%20uso.png)
 
 # Diagrama de Classe:
 
