@@ -31,4 +31,4 @@ imagem
 
 # Diagrama de Classe:
 
-![Diagrama de Classe](
+![Diagrama de Classe](https://github.com/Vinicnd/Gerenciamento-de-Dados-da-Universade/blob/main/diagrama%20de%20classe.png)
