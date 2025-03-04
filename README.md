@@ -1,1 +1,1 @@
-# Cadastro-Escola
+# Cadastro Escola
