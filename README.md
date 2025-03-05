@@ -12,7 +12,7 @@
 
 ### Prototipação de Baixo Nível:
 
-![Prototipação Nível Baixo](https://github.com/Vinicnd/Gerenciamento-de-Dados-da-Universade/blob/main/Imagens/prototipação%20baixa.png)
+![Prototipação Nível Baixo](https://github.com/Vinicnd/Gerenciamento-de-Dados-da-Universade/blob/main/Imagens/Prototipação%20baixa.png)
 
 ### Prototipação de Alto Nível:
 
@@ -32,7 +32,7 @@
 
 # Diagrama de Caso de Uso:
 
-![Diagrama de Caso de Uso](https://github.com/Vinicnd/Gerenciamento-de-Dados-da-Universade/blob/main/Imagens/diagrama%20de%20caso%20de%20uso.png)
+![Diagrama de Caso de Uso](https://github.com/Vinicnd/Gerenciamento-de-Dados-da-Universade/blob/main/Imagens/Diagrama%20de%20caso%20de%20uso.png)
 
 # Diagrama de Classe:
 
