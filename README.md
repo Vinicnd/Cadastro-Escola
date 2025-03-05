@@ -26,7 +26,7 @@
 
 ![Cadastro de Pessoa Física](https://github.com/Vinicnd/Gerenciamento-de-Dados-da-Universidade/blob/main/Imagens/Cadastro%20pessoa%20fisica.png)
 
-![Cadastro de Pessoa Jurídica]()
+![Cadastro de Pessoa Jurídica](https://github.com/Vinicnd/Gerenciamento-de-Dados-da-Universidade/blob/main/Imagens/Cadastro%20pessoa%20juridica.png)
 
 ![Cadastro de Fornecedor]()
 
