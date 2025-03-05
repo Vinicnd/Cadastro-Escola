@@ -22,9 +22,9 @@
 
 ![Cadastro de Aluno](https://github.com/Vinicnd/Gerenciamento-de-Dados-da-Universidade/blob/main/Imagens/Cadastro%20aluno.png)
 
-![Cadastro de Professor]()
+![Cadastro de Professor](https://github.com/Vinicnd/Gerenciamento-de-Dados-da-Universidade/blob/main/Imagens/Cadastro%20professor.png)
 
-![Cadastro de Pessoa Física]()
+![Cadastro de Pessoa Física](https://github.com/Vinicnd/Gerenciamento-de-Dados-da-Universidade/blob/main/Imagens/Cadastro%20pessoa%20fisica.png)
 
 ![Cadastro de Pessoa Jurídica]()
 
