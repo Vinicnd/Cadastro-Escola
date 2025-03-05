@@ -8,7 +8,7 @@
 
 ### *Fornecedores, Pessoa jurídica:*
 
-- Razão social, nome fantasia, CNPJ, endereço, telefone, contrato e serviço.
+- Cadastro de colaboradores (Razão social, nome fantasia, CNPJ, endereço, telefone, contrato e serviço).
 
 ### Prototipação de Baixo Nível:
 
