@@ -28,7 +28,7 @@
 
 ![Cadastro de Pessoa Jurídica](https://github.com/Vinicnd/Gerenciamento-de-Dados-da-Universidade/blob/main/Imagens/Cadastro%20pessoa%20juridica.png)
 
-![Cadastro de Fornecedor](https://github.com/Vinicnd/Gerenciamento-de-Dados-da-Universidade/blob/main/Imagens/Cadastro%20fornecedor.png)
+![Cadastro de Fornecedor](https://github.com/Vinicnd/Gerenciamento-de-Dados-da-Universidade/blob/main/Imagens/Cadastro%20fornecedor.jpeg)
 
 # Diagrama de Caso de Uso:
 
