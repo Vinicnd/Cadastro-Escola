@@ -36,4 +36,4 @@
 
 # Diagrama de Classe:
 
-![Diagrama de Classe](https://github.com/Vinicnd/Gerenciamento-de-Dados-da-Universade/blob/main/diagrama%20de%20classe.png)
+![Diagrama de Classe](https://github.com/Vinicnd/Gerenciamento-de-Dados-da-Universade/blob/main/Imagens/Diagrama%20de%20classe.png)
