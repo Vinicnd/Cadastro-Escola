@@ -12,7 +12,7 @@
 
 ### Prototipação de Baixo Nível:
 
-imagem
+![Prototipação Nível Baixo](https://github.com/Vinicnd/Gerenciamento-de-Dados-da-Universade/blob/main/prototipação%20baixa.png)
 
 ### Prototipação de Alto Nível:
 
